@@ -1,0 +1,702 @@
+[
+    {
+        "id": "1",
+        "name": "Flowers",
+        "link": "http://codeforces.com/problemset/problem/474/D",
+        "judge": "Codeforces",
+        "level": "1"
+    },
+    {
+        "id": "2",
+        "name": "Prizes, Prizes, more Prizes",
+        "link": "http://codeforces.com/problemset/problem/208/D",
+        "judge": "Codeforces",
+        "level": "3"
+    },
+    {
+        "id": "3",
+        "name": "Xenia and Bit Operations",
+        "link": "http://codeforces.com/problemset/problem/339/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "4",
+        "name": "Vasya and Chess",
+        "link": "http://codeforces.com/problemset/problem/493/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "5",
+        "name": "Mashmokh and ACM",
+        "link": "http://codeforces.com/problemset/problem/414/B",
+        "judge": "Codeforces",
+        "level": "3"
+    },
+    {
+        "id": "6",
+        "name": "Multiplication Table",
+        "link": "http://codeforces.com/problemset/problem/448/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "7",
+        "name": "Unbearable Controversy of Being",
+        "link": "http://codeforces.com/problemset/problem/489/D",
+        "judge": "Codeforces",
+        "level": "3"
+    },
+    {
+        "id": "8",
+        "name": "Caesar's Legions",
+        "link": "http://codeforces.com/problemset/problem/118/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "9",
+        "name": "Colorful Graph",
+        "link": "http://codeforces.com/problemset/problem/246/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "10",
+        "name": "Little Girl and Maximum XOR",
+        "link": "http://codeforces.com/problemset/problem/276/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "11",
+        "name": "Common Divisors",
+        "link": "http://codeforces.com/problemset/problem/182/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "12",
+        "name": "Magic Box",
+        "link": "http://codeforces.com/problemset/problem/231/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "13",
+        "name": "Good Sequences",
+        "link": "http://codeforces.com/problemset/problem/264/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "14",
+        "name": "Password",
+        "link": "http://codeforces.com/problemset/problem/126/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "15",
+        "name": "Greg and Graph",
+        "link": "http://codeforces.com/problemset/problem/295/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "16",
+        "name": "Working out",
+        "link": "http://codeforces.com/problemset/problem/429/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "17",
+        "name": "Count Good Substrings",
+        "link": "http://codeforces.com/problemset/problem/451/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "18",
+        "name": "Good Substrings",
+        "link": "http://codeforces.com/problemset/problem/271/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "19",
+        "name": "Long Path",
+        "link": "http://codeforces.com/problemset/problem/407/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "20",
+        "name": "Maximum Value",
+        "link": "http://codeforces.com/problemset/problem/484/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "21",
+        "name": "Greenhouse Effect",
+        "link": "http://codeforces.com/problemset/problem/269/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "22",
+        "name": "Red-Green Towers",
+        "link": "http://codeforces.com/problemset/problem/478/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "23",
+        "name": "Maximum Submatrix 2",
+        "link": "http://codeforces.com/problemset/problem/375/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "24",
+        "name": "Cow Program",
+        "link": "http://codeforces.com/problemset/problem/283/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "25",
+        "name": "Biridian Forest",
+        "link": "http://codeforces.com/problemset/problem/329/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "26",
+        "name": "Andrey and Problem",
+        "link": "http://codeforces.com/problemset/problem/442/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "27",
+        "name": "DZY Loves Modification",
+        "link": "http://codeforces.com/problemset/problem/446/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "28",
+        "name": "Zero Tree",
+        "link": "http://codeforces.com/problemset/problem/274/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "29",
+        "name": "Prefixes and Suffixes",
+        "link": "http://codeforces.com/problemset/problem/432/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "30",
+        "name": "Queue",
+        "link": "http://codeforces.com/problemset/problem/91/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "31",
+        "name": "Chips",
+        "link": "http://codeforces.com/problemset/problem/333/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "32",
+        "name": "Valid Sets",
+        "link": "http://codeforces.com/problemset/problem/486/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "33",
+        "name": "Pair of Numbers",
+        "link": "http://codeforces.com/problemset/problem/359/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "34",
+        "name": "Planets",
+        "link": "http://codeforces.com/problemset/problem/229/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "35",
+        "name": "Queue",
+        "link": "http://codeforces.com/problemset/problem/353/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "36",
+        "name": "Petya and Divisors",
+        "link": "http://codeforces.com/problemset/problem/111/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "37",
+        "name": "Obsessive String",
+        "link": "http://codeforces.com/problemset/problem/494/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "38",
+        "name": "Dima and Bacteria",
+        "link": "http://codeforces.com/problemset/problem/400/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "39",
+        "name": "Psychos in a Line",
+        "link": "http://codeforces.com/problemset/problem/319/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "40",
+        "name": "Ciel and Duel",
+        "link": "http://codeforces.com/problemset/problem/321/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "41",
+        "name": "Falling Anvils",
+        "link": "http://codeforces.com/problemset/problem/77/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "42",
+        "name": "Hit Ball",
+        "link": "http://codeforces.com/problemset/problem/203/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "43",
+        "name": "Toy Sum",
+        "link": "http://codeforces.com/problemset/problem/405/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "44",
+        "name": "Lucky Common Subsequence",
+        "link": "http://codeforces.com/problemset/problem/346/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "45",
+        "name": "Two Paths",
+        "link": "http://codeforces.com/problemset/problem/14/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "46",
+        "name": "Help General",
+        "link": "http://codeforces.com/problemset/problem/142/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "47",
+        "name": "Dima and Two Sequences",
+        "link": "http://codeforces.com/problemset/problem/272/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "48",
+        "name": "How many trees?",
+        "link": "http://codeforces.com/problemset/problem/9/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "49",
+        "name": "Lucky Number 2",
+        "link": "http://codeforces.com/problemset/problem/145/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "50",
+        "name": "Cinema",
+        "link": "http://codeforces.com/problemset/problem/234/D",
+        "judge": "Codeforces",
+        "level": "6"
+    },
+    {
+        "id": "51",
+        "name": "Wizards and Huge Prize",
+        "link": "http://codeforces.com/problemset/problem/167/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "52",
+        "name": "Apple Tree",
+        "link": "http://codeforces.com/problemset/problem/348/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "53",
+        "name": "Yaroslav and Time",
+        "link": "http://codeforces.com/problemset/problem/301/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "54",
+        "name": "Numbers",
+        "link": "http://codeforces.com/problemset/problem/213/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "55",
+        "name": "Treasure Island",
+        "link": "http://codeforces.com/problemset/problem/106/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "56",
+        "name": "Book of Evil",
+        "link": "http://codeforces.com/problemset/problem/337/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "57",
+        "name": "Sereja and Periods",
+        "link": "http://codeforces.com/problemset/problem/314/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "58",
+        "name": "Infinite Maze",
+        "link": "http://codeforces.com/problemset/problem/196/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "59",
+        "name": "Playing with Permutations",
+        "link": "http://codeforces.com/problemset/problem/251/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "60",
+        "name": "Doctor",
+        "link": "http://codeforces.com/problemset/problem/83/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "61",
+        "name": "Animals",
+        "link": "http://codeforces.com/problemset/problem/35/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "62",
+        "name": "Mushroom Scientists",
+        "link": "http://codeforces.com/problemset/problem/185/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "63",
+        "name": "Tennis Game",
+        "link": "http://codeforces.com/problemset/problem/496/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "64",
+        "name": "Buses",
+        "link": "http://codeforces.com/problemset/problem/101/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "65",
+        "name": "String",
+        "link": "http://codeforces.com/problemset/problem/128/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "66",
+        "name": "Shifting",
+        "link": "http://codeforces.com/problemset/problem/286/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "67",
+        "name": "Boring Partition",
+        "link": "http://codeforces.com/problemset/problem/238/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "68",
+        "name": "Analyzing Polyline",
+        "link": "http://codeforces.com/problemset/problem/195/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "69",
+        "name": "Vasya and Types",
+        "link": "http://codeforces.com/problemset/problem/87/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "70",
+        "name": "Lizards and Basements 2",
+        "link": "http://codeforces.com/problemset/problem/6/D",
+        "judge": "Codeforces",
+        "level": "6"
+    },
+    {
+        "id": "71",
+        "name": "Constellation",
+        "link": "http://codeforces.com/problemset/problem/32/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "72",
+        "name": "Pawn",
+        "link": "http://codeforces.com/problemset/problem/41/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "73",
+        "name": "Journey",
+        "link": "http://codeforces.com/problemset/problem/43/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "74",
+        "name": "Tanya and Password",
+        "link": "http://codeforces.com/problemset/problem/508/D",
+        "judge": "Codeforces",
+        "level": "7"
+    },
+    {
+        "id": "75",
+        "name": "Demonstration",
+        "link": "http://codeforces.com/problemset/problem/191/B",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "76",
+        "name": "Big Maximum Sum",
+        "link": "http://codeforces.com/problemset/problem/75/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "77",
+        "name": "The Child and Zoo",
+        "link": "http://codeforces.com/problemset/problem/437/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "78",
+        "name": "Mr. Bender and Square",
+        "link": "http://codeforces.com/problemset/problem/255/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "79",
+        "name": "Special Grid",
+        "link": "http://codeforces.com/problemset/problem/435/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "80",
+        "name": "Name That Tune",
+        "link": "http://codeforces.com/problemset/problem/498/B",
+        "judge": "Codeforces",
+        "level": "6"
+    },
+    {
+        "id": "81",
+        "name": "Ring Road 2",
+        "link": "http://codeforces.com/problemset/problem/27/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "82",
+        "name": "Russian Roulette",
+        "link": "http://codeforces.com/problemset/problem/103/C",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "83",
+        "name": "Snake",
+        "link": "http://codeforces.com/problemset/problem/225/D",
+        "judge": "Codeforces",
+        "level": "6"
+    },
+    {
+        "id": "84",
+        "name": "Upgrading Array",
+        "link": "http://codeforces.com/problemset/problem/402/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "85",
+        "name": "Edges in MST",
+        "link": "http://codeforces.com/problemset/problem/160/D",
+        "judge": "Codeforces",
+        "level": "6"
+    },
+    {
+        "id": "86",
+        "name": "Fools and Foolproof Roads",
+        "link": "http://codeforces.com/problemset/problem/362/D",
+        "judge": "Codeforces",
+        "level": "6"
+    },
+    {
+        "id": "87",
+        "name": "End of Exams",
+        "link": "http://codeforces.com/problemset/problem/93/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "88",
+        "name": "Restoring Numbers",
+        "link": "http://codeforces.com/problemset/problem/509/D",
+        "judge": "Codeforces",
+        "level": "7"
+    },
+    {
+        "id": "89",
+        "name": "Cats Transport",
+        "link": "http://codeforces.com/problemset/problem/311/B",
+        "judge": "Codeforces",
+        "level": "7"
+    },
+    {
+        "id": "90",
+        "name": "Broken Monitor",
+        "link": "http://codeforces.com/problemset/problem/370/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "91",
+        "name": "The Minimum Number of Variables",
+        "link": "http://codeforces.com/problemset/problem/279/D",
+        "judge": "Codeforces",
+        "level": "6"
+    },
+    {
+        "id": "92",
+        "name": "Volcanoes",
+        "link": "http://codeforces.com/problemset/problem/383/B",
+        "judge": "Codeforces",
+        "level": "7"
+    },
+    {
+        "id": "93",
+        "name": "Widget Library",
+        "link": "http://codeforces.com/problemset/problem/89/B",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "94",
+        "name": "Misha and Permutations Summation",
+        "link": "http://codeforces.com/problemset/problem/501/D",
+        "judge": "Codeforces",
+        "level": "4"
+    },
+    {
+        "id": "95",
+        "name": "BerDonalds",
+        "link": "http://codeforces.com/problemset/problem/266/D",
+        "judge": "Codeforces",
+        "level": "7"
+    },
+    {
+        "id": "96",
+        "name": "Tower of Hanoi",
+        "link": "http://codeforces.com/problemset/problem/392/B",
+        "judge": "Codeforces",
+        "level": "8"
+    },
+    {
+        "id": "97",
+        "name": "Mr. Kitayuta's Technology",
+        "link": "http://codeforces.com/problemset/problem/505/D",
+        "judge": "Codeforces",
+        "level": "5"
+    },
+    {
+        "id": "98",
+        "name": "Shoe Store",
+        "link": "http://codeforces.com/problemset/problem/166/D",
+        "judge": "Codeforces",
+        "level": "7"
+    },
+    {
+        "id": "99",
+        "name": "Inna and Sweet Matrix",
+        "link": "http://codeforces.com/problemset/problem/390/D",
+        "judge": "Codeforces",
+        "level": "8"
+    },
+    {
+        "id": "100",
+        "name": "Help King",
+        "link": "http://codeforces.com/problemset/problem/98/B",
+        "judge": "Codeforces",
+        "level": "9"
+    }
+]
