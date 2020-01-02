@@ -1,6 +1,27 @@
 require("dotenv").config();
 const puppeteer = require("puppeteer");
 const fs = require("fs");
+const Problem = require("../models/Problem");
+
+module.exports.db = (req, res) => {
+  let probs = JSON.parse(fs.readFileSync("./data/div1d.json", "utf8"));
+  Problem.create(probs);
+  let probs1 = JSON.parse(fs.readFileSync("./data/div1e.json", "utf8"));
+  Problem.create(probs1);
+  let probs2 = JSON.parse(fs.readFileSync("./data/div2a.json", "utf8"));
+  Problem.create(probs2);
+  let probs3 = JSON.parse(fs.readFileSync("./data/div2b.json", "utf8"));
+  Problem.create(probs3);
+  let probs4 = JSON.parse(fs.readFileSync("./data/div2c.json", "utf8"));
+  Problem.create(probs4);
+  let probs5 = JSON.parse(fs.readFileSync("./data/div2d.json", "utf8"));
+  Problem.create(probs5);
+  let probs6 = JSON.parse(fs.readFileSync("./data/div2e.json", "utf8"));
+  Problem.create(probs6);
+  let probs7 = JSON.parse(fs.readFileSync("./data/ratinglt1300.json", "utf8"));
+  Problem.create(probs7);
+  return res.send("ok");
+};
 
 module.exports.index = (req, res) => {
   let a2ojUrl = "https://www.a2oj.com/Ladder11.html";

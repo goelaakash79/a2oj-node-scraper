@@ -4,15 +4,15 @@ const morgan = require("morgan");
 // const cors = require('cors');
 const app = express();
 
-const { index } = require("./controllers/index_controller");
+const { index, db } = require("./controllers/index_controller");
 require("dotenv").config();
-// require('./config/dbconnection');
+require('./config/dbconnection');
 
 // app.use(cors());
 app.use(morgan("dev"));
 
 // Routes
-app.get("/", index);
+// app.get("/", db);
 
 app.listen(process.env.PORT, err => {
   if (err) {
