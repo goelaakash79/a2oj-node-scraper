@@ -6,13 +6,13 @@ const app = express();
 
 const { index, db } = require("./controllers/index_controller");
 require("dotenv").config();
-require('./config/dbconnection');
+// require('./config/dbconnection');
 
 // app.use(cors());
 app.use(morgan("dev"));
 
 // Routes
-// app.get("/", db);
+app.get("/", index);
 
 app.listen(process.env.PORT, err => {
   if (err) {

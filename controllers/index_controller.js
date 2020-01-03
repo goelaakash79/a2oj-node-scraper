@@ -24,7 +24,7 @@ module.exports.db = (req, res) => {
 };
 
 module.exports.index = (req, res) => {
-  let a2ojUrl = "https://www.a2oj.com/Ladder11.html";
+  let a2ojUrl = "https://www.a2oj.com/Ladder21.html";
   (async () => {
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
@@ -61,7 +61,7 @@ module.exports.index = (req, res) => {
     console.dir(divData);
     const data = divData;
 
-    fs.writeFile("./ratinglt1300.json", JSON.stringify(data), err => {
+    fs.writeFile("./ratinggt2200.json", JSON.stringify(data), err => {
       if (err) {
         console.error(err);
         return;
